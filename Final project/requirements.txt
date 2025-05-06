@@ -1,0 +1,8 @@
+streamlit
+av
+streamlit-webrtc
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
